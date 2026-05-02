@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Machine Learning projects implemented in Python using Jupyter Notebook.
+Machine Learning projects implemented in Python using Jupyter Notebook..
